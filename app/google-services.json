@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "219721489888",
+    "firebase_url": "https://knockout-7c2cd.firebaseio.com",
+    "project_id": "knockout-7c2cd",
+    "storage_bucket": "knockout-7c2cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219721489888:android:023089d08c64ce3340df85",
+        "android_client_info": {
+          "package_name": "com.kale.knockout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219721489888-4q9crn6fuhmg2mroemuiuj1vbjnsq1m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOpOJCdPxVn4Y_MIn5O5BThIXkKVEoYRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219721489888-4q9crn6fuhmg2mroemuiuj1vbjnsq1m1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
